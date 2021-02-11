@@ -13,4 +13,4 @@ The term works of web programming lab of 3rd semester.
 8. Implement UI Autocomplete using Jquery
 
 
-NOTE : Download the file and exatract the files to specific folder and execute them one by one.
+NOTE : Download the rar (compressed) file and exatract the files to specific folder and execute them one by one.
